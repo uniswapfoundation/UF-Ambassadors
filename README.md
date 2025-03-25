@@ -1,42 +1,63 @@
-# The UF Ambassadors
+# The UF Ambassadors Program
 
-The Uniswap Foundation Ambassador program aims to promote the growth and development of the Uniswap protocol and its community. The program leverages the skills and expertise of our chosen ambassadors to assist developers, create resources, foster community, and attend hackathons.
+The Uniswap Foundation Ambassadors are a global network of builders and community leaders who support the growth and development of the Uniswap ecosystem. Our ambassadors are established hook builders, Hookathon winners, and experienced developers who provide hands-on support to the broader community.
 
-## Ambassadors
+Through local initiatives, technical education, and direct mentorship, ambassadors help bridge knowledge gaps and foster innovation across the Uniswap protocol. They serve as key connectors between regional developer communities and the broader Uniswap ecosystem.
 
-### Adam
-- **Twitter**: [@adamtj_eth](https://twitter.com/adamtj_eth)
-- **Contributions**:
-  - [The UniCast](https://www.youtube.com/@adamtj0x)
-    - A podcast dedicated to interviewing former and current UF grantees to highlight the work they have done to help the ecosystem.
-  - [V4 Resources For Developers](https://github.com/atj3097/univ4-hooks-portfolio)
-    - A resource hub to developers get started building on top of Uniswap V4 with example hooks developed by our UF Ambassadors.
-  - [Uniswap Hooks Forum](https://hooks.uniswapfoundation.org/)
-    - A forum to host discussions on Uniswap V4 Hooks and a place for developers to draw ideas from one another.
+## Meet Our Ambassadors
 
-### Aziz
-- **Twitter**: [@aiden0x4](https://twitter.com/aiden0x4)
-- **Contributions**:
-  - [UniChat](https://unichat.fn03.xyz/)
-    - An AI powered Chat platform built to help developers retrieve real time data happening on Uniswap.
-  - [Uniswap Hooks Forum](https://hooks.uniswapfoundation.org/)
-    - A forum to host discussions on Uniswap V4 Hooks and a place for developers to draw ideas from one another.
+### [Nobuaki Onishi](https://twitter.com/zak3939) (Tokyo, Japan)
+- **GitHub**: [@ZaK3939](https://github.com/ZaK3939)
+- **Region**: Asia-Pacific
 
+### [Ivan Volovyk](https://x.com/LisVikkk) (Warsaw, Poland)
+- **GitHub**: [@ivanvolov](https://github.com/ivanvolov)
+- **Region**: Europe
 
-### Ritzy
-- **Twitter**: [RitzyDefi](https://twitter.com/RitzyDefi)
-- **Contributions**:
-  - [Uniswap V4 DAO Hooks](https://github.com/RitzyDevBox/Uniswap-v4-DAO-hooks)
-    - A run through of a DAO Hook built on top of Uniswap V4 with extensive documentation on how to get this started.
-  - [Exploring Uniswap V4](https://medium.com/@ritzydevbox/exploring-the-future-of-defi-with-uniswap-v4-2c49c02d228f)
-    - An article diving into what Uniswap V4 is and thoughts on the future of development and how to get started.
-  - [Twitter Spaces On V4](https://twitter.com/0xTyllen/status/1684608917966569472?s=20)
-    - A twitter spaces hosting key members from differents protocols discussing their ideas for building on top of Uniswap V4. Hosted by Ritzy.
-  - Developer Assistance on Uniswap Discord
-    - Constantly supporting our developers in the ecosystem with their questions.
+### [Mohak Gupta](https://x.com/mohak_sol) (Jaipur, India)
+- **GitHub**: [@mo-hak](https://github.com/mo-hak)
+- **Region**: South Asia
 
-## Events
+### [Silvio Busonero](https://twitter.com/silviobusonero) (Paris, France)
+- **GitHub**: [@SB_fin](https://github.com/SB_fin)
+- **Region**: Europe
 
-Ambassadors are also supporting us at:
-- ETH Global New York
-- ETH Global Istanbul
+### [Raphael Nembhard](https://twitter.com/VillageFarmerr) (Philadelphia, USA)
+- **GitHub**: [@DeluxeRaph](https://github.com/DeluxeRaph)
+- **Region**: North America
+
+### [Tony Lau](https://x.com/intrepid_crypto) (Toronto, Canada)
+- **GitHub**: [@intrepidcanadian](https://github.com/intrepidcanadian)
+- **Region**: North America
+
+### [Longs Gotar](https://x.com/devlongs_) (Lagos, Nigeria)
+- **GitHub**: [@devlongs](https://github.com/devlongs)
+- **Region**: Africa
+
+### [Rudransh](https://x.com/rudransh190204) (Jaipur, India)
+- **GitHub**: [@Ansh1902396](https://github.com/Ansh1902396)
+- **Region**: South Asia
+
+## Focus Areas
+
+Our ambassadors work across three key areas:
+
+### 1. Foster Community Growth
+- Organize local and virtual events
+- Represent at global gatherings
+- Connect with regional DeFi communities
+
+### 2. Bridge Knowledge Gaps
+- Create educational materials
+- Develop tutorials and guides for Uniswap v4 hooks
+- Community resources for new builders
+
+### 3. Drive Innovation
+- Provide mentorship to the global community
+- Support in the Uniswap Hook Incubator
+- Personalized guidance for hook development
+
+## Important Links
+- [Upcoming global events](https://lu.ma/uniswap-foundation)
+- [Apply to join the next cohort](https://uniswap.notion.site/Uniswap-Foundation-Ambassador-8903e008d67d40579428b537ed2ea709)
+- [Join our Discord Community](https://discord.com/invite/uniswap)
