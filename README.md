@@ -40,7 +40,7 @@ Through local initiatives, technical education, and direct mentorship, ambassado
 
 ### [Nico Acosta](https://github.com/NicoAcosta) (Buenos Aires, Argentina)
 - **GitHub**: [@NicoAcosta](https://github.com/NicoAcosta)
-- **Region**: Latin America
+- **Region**: South America
 
 
 ## Focus Areas
