@@ -38,6 +38,11 @@ Through local initiatives, technical education, and direct mentorship, ambassado
 - **GitHub**: [@Ansh1902396](https://github.com/Ansh1902396)
 - **Region**: South Asia
 
+### [Nico Acosta](https://github.com/NicoAcosta) (Buenos Aires, Argentina)
+- **GitHub**: [@NicoAcosta](https://github.com/NicoAcosta)
+- **Region**: Latin America
+
+
 ## Focus Areas
 
 Our ambassadors work across three key areas:
