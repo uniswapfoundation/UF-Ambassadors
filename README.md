@@ -18,14 +18,6 @@ Through local initiatives, technical education, and direct mentorship, ambassado
 - **GitHub**: [@mo-hak](https://github.com/mo-hak)
 - **Region**: South Asia
 
-### [Silvio Busonero](https://twitter.com/silviobusonero) (Paris, France)
-- **GitHub**: [@SB_fin](https://github.com/SB_fin)
-- **Region**: Europe
-
-### [Raphael Nembhard](https://twitter.com/VillageFarmerr) (Philadelphia, USA)
-- **GitHub**: [@DeluxeRaph](https://github.com/DeluxeRaph)
-- **Region**: North America
-
 ### [Tony Lau](https://x.com/intrepid_crypto) (Toronto, Canada)
 - **GitHub**: [@intrepidcanadian](https://github.com/intrepidcanadian)
 - **Region**: North America
@@ -41,6 +33,10 @@ Through local initiatives, technical education, and direct mentorship, ambassado
 ### [Nico Acosta](https://github.com/NicoAcosta) (Buenos Aires, Argentina)
 - **GitHub**: [@NicoAcosta](https://github.com/NicoAcosta)
 - **Region**: South America
+
+### [Rafa Canseco](https://x.com/0xRafaCC) (Puebla, México)
+- **GitHub**: [@rafa-canseco](https://github.com/rafa-canseco)
+- **Region**: North America
 
 
 ## Focus Areas
