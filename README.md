@@ -6,59 +6,50 @@ Through local initiatives, technical education, and direct mentorship, ambassado
 
 ## Meet Our Ambassadors
 
-### [Nobuaki Onishi](https://twitter.com/zak3939) (Tokyo, Japan)
-- **GitHub**: [@ZaK3939](https://github.com/ZaK3939)
-- **Region**: Asia-Pacific
-
-### [Ivan Volovyk](https://x.com/LisVikkk) (Warsaw, Poland)
-- **GitHub**: [@ivanvolov](https://github.com/ivanvolov)
-- **Region**: Europe
-
-### [Mohak Gupta](https://x.com/mohak_sol) (Jaipur, India)
-- **GitHub**: [@mo-hak](https://github.com/mo-hak)
-- **Region**: South Asia
-
-### [Tony Lau](https://x.com/intrepid_crypto) (Toronto, Canada)
-- **GitHub**: [@intrepidcanadian](https://github.com/intrepidcanadian)
-- **Region**: North America
-
-### [Longs Gotar](https://x.com/devlongs_) (Lagos, Nigeria)
-- **GitHub**: [@devlongs](https://github.com/devlongs)
-- **Region**: Africa
-
-### [Rudransh](https://x.com/rudransh190204) (Jaipur, India)
-- **GitHub**: [@Ansh1902396](https://github.com/Ansh1902396)
-- **Region**: South Asia
-
 ### [Nico Acosta](https://github.com/NicoAcosta) (Buenos Aires, Argentina)
 - **GitHub**: [@NicoAcosta](https://github.com/NicoAcosta)
 - **Region**: South America
 
 ### [Rafa Canseco](https://x.com/0xRafaCC) (Puebla, México)
 - **GitHub**: [@rafa-canseco](https://github.com/rafa-canseco)
+- **Region**: South America
+  
+### [Constantino Mora](https://x.com/constacrypto) (Monterrey, México)
+- GitHub: [@constantino](https://github.com/Constantino)
+- Region: South America
+
+### [Mohak Gupta](https://x.com/mohak_sol) (Jaipur, India)
+- **GitHub**: [@mo-hak](https://github.com/mo-hak)
+- **Region**: South Asia
+
+### [Rudransh](https://x.com/rudransh190204) (Jaipur, India)
+- **GitHub**: [@Ansh1902396](https://github.com/Ansh1902396)
+- **Region**: South Asia
+  
+### [Nobuaki Onishi](https://twitter.com/zak3939) (Tokyo, Japan)
+- **GitHub**: [@ZaK3939](https://github.com/ZaK3939)
+- **Region**: Asia-Pacific
+
+### [Longs Gotar](https://x.com/devlongs_) (Lagos, Nigeria)
+- **GitHub**: [@devlongs](https://github.com/devlongs)
+- **Region**: Africa
+
+### [Ivan Volovyk](https://x.com/LisVikkk) (Warsaw, Poland)
+- **GitHub**: [@ivanvolov](https://github.com/ivanvolov)
+- **Region**: Europe
+
+### [Tony Lau](https://x.com/intrepid_crypto) (Toronto, Canada)
+- **GitHub**: [@intrepidcanadian](https://github.com/intrepidcanadian)
 - **Region**: North America
 
 
-## Focus Areas
+## Meet up at Uniswap community events
 
-Our ambassadors work across three key areas:
+The Uniswap Foundation and UF Ambassador teams regularly host global events, hackathons, workshops, and meetups.
 
-### 1. Foster Community Growth
-- Organize local and virtual events
-- Represent at global gatherings
-- Connect with regional DeFi communities
-
-### 2. Bridge Knowledge Gaps
-- Create educational materials
-- Develop tutorials and guides for Uniswap v4 hooks
-- Community resources for new builders
-
-### 3. Drive Innovation
-- Provide mentorship to the global community
-- Support in the Uniswap Hook Incubator
-- Personalized guidance for hook development
+Explore the [Uniswap Foundation event calendar here](https://lu.ma/uniswap-foundation).
 
 ## Important Links
-- [Upcoming global events](https://lu.ma/uniswap-foundation)
+- [Uniswap Foundation Builder Suppport](https://www.uniswapfoundation.org/build)
 - [Apply to join the next cohort](https://uniswap.notion.site/Uniswap-Foundation-Ambassador-8903e008d67d40579428b537ed2ea709)
 - [Join our Discord Community](https://discord.com/invite/uniswap)
