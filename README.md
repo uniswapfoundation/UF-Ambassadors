@@ -12,11 +12,11 @@ Through local initiatives, technical education, and direct mentorship, ambassado
 
 ### [Rafa Canseco](https://x.com/0xRafaCC) (Puebla, México)
 - **GitHub**: [@rafa-canseco](https://github.com/rafa-canseco)
-- **Region**: South America
+- **Region**: North America
   
-### [Constantino Mora](https://x.com/constacrypto) (Monterrey, México)
+### [Constantino Mora](https://x.com/constacrypto) (Ciudad de México, México)
 - GitHub: [@constantino](https://github.com/Constantino)
-- Region: South America
+- Region: North America
 
 ### [Mohak Gupta](https://x.com/mohak_sol) (Jaipur, India)
 - **GitHub**: [@mo-hak](https://github.com/mo-hak)
